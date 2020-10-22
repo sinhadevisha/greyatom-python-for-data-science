@@ -68,7 +68,6 @@ full_name = last_name + " " + first_name
 print("Full Name of Topper: ", full_name, end='\n')
 # print the name in upper case
 certificate_name = full_name.upper()
-
 print("Certificate Name of Topper: ", certificate_name, end='\n')
 
 # Code ends here
